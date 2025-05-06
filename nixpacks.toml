@@ -1,0 +1,2 @@
+[build]
+apt = ["libgl1-mesa-glx", "libsm6", "libxext6", "ffmpeg", "libfontconfig1", "libxrender1"]
